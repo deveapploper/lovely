@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "607056490726",
+    "project_id": "xmusium",
+    "storage_bucket": "xmusium.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607056490726:android:e1c7cdd1dd6a0687e0cb27",
+        "android_client_info": {
+          "package_name": "com.museum.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607056490726-k1s5fargq2immv24op78tnqqhn1vh8q3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.museum.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "607056490726-ehafckis6r3nej95ikpsdgtcg7q51qpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5h_mbSp6-bkiPs_qGfTCaKfSgDU3CyaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607056490726-ehafckis6r3nej95ikpsdgtcg7q51qpq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "607056490726-b136sdohpisu9egkf4jal4r1c2465i5k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.museum.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
